@@ -1,9 +1,6 @@
 # Finance-API-project
 A RESTful API built with Sanic and SQLAlchemy for managing users, accounts, payments, and webhooks. Supports user authentication, admin operations, and payment processing with SQLite as the database.
 
-# Finance-API-project
-A RESTful API built with Sanic and SQLAlchemy for managing users, accounts, payments, and webhooks. Supports user authentication, admin operations, and payment processing with SQLite as the database.
-
 ## Features
 - User authentication (JWT-based login for admin and regular users).
 - User management (create, retrieve user info, list all users for admins).
